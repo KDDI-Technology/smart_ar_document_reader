@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0191b6adc6f1d4441953dce80c46f27e, type: 3}
+  m_Name: KTECprofile
+  m_EditorClassIdentifier: 
+  documentName: KDDI Technology
+  pageTextures:
+  - {fileID: 2800000, guid: 5192cb504dfd5d04a98ec4c586fcad47, type: 3}
+  - {fileID: 2800000, guid: b8c6a163a40c2b940be4ba3e92457ade, type: 3}
+  - {fileID: 2800000, guid: fe689b4f4f07b78449464e27d528025a, type: 3}
+  - {fileID: 2800000, guid: f3c210e409544454d9faa9bc8988bd50, type: 3}
+  - {fileID: 2800000, guid: 99f52e917a35d2b4698e73d801c60ef5, type: 3}
+  - {fileID: 2800000, guid: 128f8ec7caedf0748adc2c0b8dcbd762, type: 3}
+  - {fileID: 2800000, guid: c66efc44eadc10a4ba2975954f5e37ce, type: 3}
+  - {fileID: 2800000, guid: 2d50ee194b6510e45b2f5eeb0ee49267, type: 3}

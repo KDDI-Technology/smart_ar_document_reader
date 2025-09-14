@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0191b6adc6f1d4441953dce80c46f27e, type: 3}
+  m_Name: sd3profile
+  m_EditorClassIdentifier: 
+  documentName: Software-Dev 3 profile
+  pageTextures:
+  - {fileID: 2800000, guid: 33b6aabdfad60fc47a44e5640fee7104, type: 3}
+  - {fileID: 2800000, guid: e78ed4c8d619a0c49a06443ff834337f, type: 3}
+  - {fileID: 2800000, guid: abe074fd19e0d5d44bdda5e962514e5c, type: 3}

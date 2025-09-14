@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: SmartFactoryExpo
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4745580927384440220
+  m_GuidHigh: 8898696134317327270
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5157061925270706075
+      m_GuidHigh: 13335098391501227670
+    m_SerializedTextureGuid:
+      m_GuidLow: 9837213371992675890
+      m_GuidHigh: 15433328296696201464
+    m_Size: {x: 0.21, y: 0.21}
+    m_SpecifySize: 1
+    m_Name: Icon
+    m_Texture: {fileID: 2800000, guid: 29589632cd718884f8c08f0a51322ed6, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4831358145284802579
+      m_GuidHigh: 1428397498042923685
+    m_SerializedTextureGuid:
+      m_GuidLow: 2469306500698133452
+      m_GuidHigh: 3717280039316779576
+    m_Size: {x: 0.21, y: 0.21}
+    m_SpecifySize: 1
+    m_Name: Spanner
+    m_Texture: {fileID: 2800000, guid: efacd3ccbd2d224438722032806e9633, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4808499427056038912
+      m_GuidHigh: 298466031189772474
+    m_SerializedTextureGuid:
+      m_GuidLow: 4590535556520256350
+      m_GuidHigh: 8658033792244017816
+    m_Size: {x: 0.21, y: 0.21}
+    m_SpecifySize: 1
+    m_Name: ImpactWrench
+    m_Texture: {fileID: 2800000, guid: 5730a35edbc43fb4986a08a0dc832778, type: 3}
